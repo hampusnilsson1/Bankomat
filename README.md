@@ -1,1 +1,1 @@
-Detta är vår första programmerings inlämningsuppgift, här har jag skapat en console application som ska simulera en bankomat med konton och kontanter.
+Detta är min första programmerings inlämningsuppgift, här har jag skapat en console application som ska simulera en bankomat med konton och lite kontanter som man kan sätta in på kontonen om man lyckas logga in.
